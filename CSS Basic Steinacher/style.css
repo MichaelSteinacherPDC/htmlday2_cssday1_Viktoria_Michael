@@ -17,3 +17,13 @@ h1{
 .right > p{
     display:none;
 }
+
+.important{
+    display: inline;
+    font-size:20px;
+    font-weight: bold;
+}
+
+h3{
+    color: red;
+}
