@@ -1,0 +1,44 @@
+table, th, td {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    border-color: #0175ff;
+}
+#thead1{
+    width: 200px;
+}
+#thead2{
+    width: 400px;
+}
+#thead3{
+    width: 200px;
+}
+
+.table-cell{
+    text-align: center;
+}
+
+body{
+    background: rgb(185,232,255);
+    background: linear-gradient(87deg, rgba(185,232,255,1) 0%, rgba(204,250,255,0.7567401960784313) 47%, rgba(1,117,255,0.5130427170868348) 100%);
+}
+
+
+
+.center{
+    text-align: center;
+}
+
+.codefactory img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.banner img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
